@@ -1,0 +1,20 @@
+.home {
+    background-image: url("../../images/background.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    color: white;
+    text-align: center;
+}
+
+.crack-heading {
+    font-family: 'Bebas Neue', cursive;
+    font-size: 70px;
+}
+
+.player-heading {
+    font-family: 'Oswald', sans-serif;
+}
+
+/* font-family: 'Bebas Neue', cursive;
+font-family: 'Oswald', sans-serif; */

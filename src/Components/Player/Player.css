@@ -1,0 +1,17 @@
+.custom-btn {
+    color: white;
+    background-color: black;
+    border: none;
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+
+.player {
+    background-color: rgb(128, 128, 128, 0.8);
+    padding: 50px;
+    margin-bottom: 50px;
+}
+
+.player img{
+    border-radius: 50%;
+}
